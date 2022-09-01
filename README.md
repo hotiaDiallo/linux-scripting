@@ -1,6 +1,7 @@
 ### This project is for learning the "Linux Basics and scripting"
 <br />
-![Linux Icon for Linux Module](/linux.png "Linux Basics and scripting")
+
+![Image](/linux.png "Linux Basics and scripting")
 
 <details>
 <summary>Basic Linux Commands </summary>
